@@ -1,7 +1,7 @@
 # ATNtgbot
 This bot takes posts from the altenen.com forum and redirects them to telegram.
 
-<b>INSTALLATION [windows]</b>
+<b>INSTALLATION [windows]</b><br/>
 Download the python package, here are some links that could be for you:
 
 » <a href="https://www.python.org/downloads/">Python, windows version</a> (2.7)<br />
@@ -19,7 +19,7 @@ Configure the source by replacing "<b>TOKEN</b>"(line 133, 75) with your token..
 It's very easy, try it! Good luck!
 <br /><br />
 
-<b>INSTALLATION [linux]</b>
+<b>INSTALLATION [linux]</b><br />
 Install the python package by typing this command:
 
 <code>» apt-get install python2.7</code><br />
