@@ -17,7 +17,7 @@ Configure the source by replacing "<b>TOKEN</b>"(line 133, 75) with your token..
 <code>python python.rb</code>
 <br /><br />
 It's very easy, try it! Good luck!
-
+<br /><br />
 
 <b>INSTALLATION [linux]</b>
 Install the python package by typing this command:
@@ -26,11 +26,11 @@ Install the python package by typing this command:
 Now install <b>pip</b>:
 <code>» apt-get install python-pip</code>
 
-To install the modules we have to type the following commands:
-<code>pip install requests<br />
-pip install telepot<br />
-pip install bs4<br />
-</code>
+To install the modules we have to type the following commands:<br />
+<code>pip install requests</code><br />
+<code>pip install telepot</code><br />
+<code>pip install bs4</code><br />
+
 
 Configure the source by replacing "<b>TOKEN</b>"(line 133, 75) with your token... Now, start the bot by doing in the terminal and in the main file directory:<br /><br />
 <code>python python.rb</code>
