@@ -33,6 +33,6 @@ To install the modules we have to type the following commands:<br />
 
 
 Configure the source by replacing "<b>TOKEN</b>"(line 133, 75) with your token... Now, start the bot by doing in the terminal and in the main file directory:<br /><br />
-<code>python python.rb</code>
+<code>python main.py</code>
 <br /><br />
 It's very easy, try it! Good luck!
